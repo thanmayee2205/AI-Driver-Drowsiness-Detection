@@ -1,0 +1,6 @@
+dataset/
+*.h5
+*.npz
+*.dat
+drowsiness_log.csv
+__pycache__/
